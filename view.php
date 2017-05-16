@@ -503,5 +503,5 @@ if (isset($_SESSION['matric'])) {
     </script>
   </body>
 
-<!-- Mirrored from demo.naksoid.com/elephant-v1.2.0/theme-2/dashboard-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 07 Apr 2017 18:47:09 GMT -->
+
 </html>
